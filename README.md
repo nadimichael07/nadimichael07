@@ -86,7 +86,12 @@ Production-ready backend architecture featuring authentication, REST APIs, Postg
 ⭐ Always building scalable software, intelligent systems, and impactful AI solutions.
 
 <!--
-**nadimichael07/nadimichael07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadimichael07&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadimichael07&layout=compact&theme=tokyonight) 
+nadimichael07/nadimichael07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
