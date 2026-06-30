@@ -84,7 +84,11 @@ Production-ready backend architecture featuring authentication, REST APIs, Postg
 ---
 
 ⭐ Always building scalable software, intelligent systems, and impactful AI solutions.
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadimichael07&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadimichael07&layout=compact&theme=tokyonight)
 <!--
 **## 📊 GitHub Stats
 
