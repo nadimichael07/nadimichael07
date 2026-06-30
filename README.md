@@ -130,11 +130,6 @@ Production-ready backend architecture featuring authentication, REST APIs, Postg
 - Code Refactoring!--
 **## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadimichael07&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadimichael07&layout=compact&theme=tokyonight) 
-nadimichael07/nadimichael07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
