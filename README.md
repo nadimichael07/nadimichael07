@@ -89,7 +89,45 @@ Production-ready backend architecture featuring authentication, REST APIs, Postg
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadimichael07&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadimichael07&layout=compact&theme=tokyonight)
-<!--
+
+<## 💻 Tech Stack
+
+### Programming Languages
+- Python
+- Java
+- TypeScript
+- C++
+- SQL
+- Bash
+
+### Backend Development
+- FastAPI
+- Flask
+- REST APIs
+
+### Artificial Intelligence & Machine Learning
+- PyTorch
+- Transformers
+- LangChain
+- LlamaIndex
+- Hugging Face
+- Scikit-learn
+
+### DevOps & Cloud
+- Docker
+- Kubernetes
+- Git
+- GitHub Actions
+- AWS SageMaker
+- MLflow
+
+### Software Engineering
+- Algorithms
+- Data Structures
+- Debugging
+- Performance Optimization
+- Feature Development
+- Code Refactoring!--
 **## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadimichael07&show_icons=true&theme=tokyonight)
